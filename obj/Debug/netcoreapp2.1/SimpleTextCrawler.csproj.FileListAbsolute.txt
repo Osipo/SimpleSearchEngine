@@ -1,0 +1,16 @@
+C:\DotNetFramework\Core\SimpleTextCrawler\bin\Debug\netcoreapp2.1\SimpleTextCrawler.deps.json
+C:\DotNetFramework\Core\SimpleTextCrawler\bin\Debug\netcoreapp2.1\SimpleTextCrawler.runtimeconfig.json
+C:\DotNetFramework\Core\SimpleTextCrawler\bin\Debug\netcoreapp2.1\SimpleTextCrawler.runtimeconfig.dev.json
+C:\DotNetFramework\Core\SimpleTextCrawler\bin\Debug\netcoreapp2.1\SimpleTextCrawler.dll
+C:\DotNetFramework\Core\SimpleTextCrawler\bin\Debug\netcoreapp2.1\SimpleTextCrawler.pdb
+C:\DotNetFramework\Core\SimpleTextCrawler\bin\Debug\netcoreapp2.1\LemmaSharp.dll
+C:\DotNetFramework\Core\SimpleTextCrawler\bin\Debug\netcoreapp2.1\LemmaSharpPrebuilt.dll
+C:\DotNetFramework\Core\SimpleTextCrawler\bin\Debug\netcoreapp2.1\LemmaSharpPrebuiltCompact.dll
+C:\DotNetFramework\Core\SimpleTextCrawler\bin\Debug\netcoreapp2.1\Lzma#.dll
+C:\DotNetFramework\Core\SimpleTextCrawler\obj\Debug\netcoreapp2.1\SimpleTextCrawler.csprojAssemblyReference.cache
+C:\DotNetFramework\Core\SimpleTextCrawler\obj\Debug\netcoreapp2.1\SimpleTextCrawler.csproj.CoreCompileInputs.cache
+C:\DotNetFramework\Core\SimpleTextCrawler\obj\Debug\netcoreapp2.1\SimpleTextCrawler.AssemblyInfoInputs.cache
+C:\DotNetFramework\Core\SimpleTextCrawler\obj\Debug\netcoreapp2.1\SimpleTextCrawler.AssemblyInfo.cs
+C:\DotNetFramework\Core\SimpleTextCrawler\obj\Debug\netcoreapp2.1\SimpleTextCrawler.csproj.CopyComplete
+C:\DotNetFramework\Core\SimpleTextCrawler\obj\Debug\netcoreapp2.1\SimpleTextCrawler.dll
+C:\DotNetFramework\Core\SimpleTextCrawler\obj\Debug\netcoreapp2.1\SimpleTextCrawler.pdb
